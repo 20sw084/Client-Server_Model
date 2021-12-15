@@ -1,5 +1,5 @@
 import java.net.*;
-import java.io.*;  
+import java.io.*; 
 class MyClient1{  
 public static void main(String args[])throws Exception{  
 Socket s=new Socket("localhost",3333);  
